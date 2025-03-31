@@ -3,8 +3,10 @@
     "",
     "\\Logica",
     "\\Modelo",
-    "\\Modelo\\Entities"
+    "\\Modelo\\bin",
+    "\\Modelo\\Entities",
+    "\\Principal"
   ],
-  "SelectedNode": "\\Logica\\Logica.csproj",
+  "SelectedNode": "\\Principal\\VistaCliente.Designer.cs",
   "PreviewInSolutionExplorer": false
 }

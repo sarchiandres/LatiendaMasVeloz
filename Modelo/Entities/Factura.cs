@@ -14,8 +14,5 @@ namespace Modelo.Entities
         public int id_cliente { get; set; }
         public int id_empleado { get; set; }
 
-
-
-
     }
 }

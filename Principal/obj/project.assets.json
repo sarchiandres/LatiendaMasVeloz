@@ -1644,24 +1644,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sarch\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\SENA\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sarch\\Downloads\\ProyectoEnCapas\\Principal\\Principal.csproj",
+      "projectUniqueName": "C:\\Users\\SENA\\Documents\\Tamarindo\\LatiendaMasVeloz\\Principal\\Principal.csproj",
       "projectName": "Principal",
-      "projectPath": "C:\\Users\\Sarch\\Downloads\\ProyectoEnCapas\\Principal\\Principal.csproj",
-      "packagesPath": "C:\\Users\\Sarch\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sarch\\Downloads\\ProyectoEnCapas\\Principal\\obj\\",
+      "projectPath": "C:\\Users\\SENA\\Documents\\Tamarindo\\LatiendaMasVeloz\\Principal\\Principal.csproj",
+      "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SENA\\Documents\\Tamarindo\\LatiendaMasVeloz\\Principal\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Sarch\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\SENA\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1669,14 +1664,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\Sarch\\Downloads\\ProyectoEnCapas\\Logica\\Logica.csproj": {
-              "projectPath": "C:\\Users\\Sarch\\Downloads\\ProyectoEnCapas\\Logica\\Logica.csproj"
+            "C:\\Users\\SENA\\Documents\\Tamarindo\\LatiendaMasVeloz\\Logica\\Logica.csproj": {
+              "projectPath": "C:\\Users\\SENA\\Documents\\Tamarindo\\LatiendaMasVeloz\\Logica\\Logica.csproj"
             }
           }
         }
@@ -1690,8 +1686,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -1715,7 +1710,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

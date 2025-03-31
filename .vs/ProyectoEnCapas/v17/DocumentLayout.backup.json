@@ -1,46 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sarch\\Downloads\\ProyectoEnCapas\\",
+  "WorkspaceRootPath": "C:\\Users\\SENA\\Documents\\Tamarindo\\LatiendaMasVeloz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A91CFC1B-EECA-45B1-975A-C74B306BFC16}|Modelo\\Modelo.csproj|c:\\users\\sarch\\downloads\\proyectoencapas\\modelo\\entities\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A91CFC1B-EECA-45B1-975A-C74B306BFC16}|Modelo\\Modelo.csproj|solutionrelative:modelo\\entities\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97A81DB8-7CE9-4BC8-BE6B-CD9A554F6CC1}|Principal\\Principal.csproj|c:\\users\\sena\\documents\\tamarindo\\latiendamasveloz\\principal\\registrarempleado.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A81DB8-7CE9-4BC8-BE6B-CD9A554F6CC1}|Principal\\Principal.csproj|solutionrelative:principal\\registrarempleado.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A91CFC1B-EECA-45B1-975A-C74B306BFC16}|Modelo\\Modelo.csproj|c:\\users\\sarch\\downloads\\proyectoencapas\\modelo\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A91CFC1B-EECA-45B1-975A-C74B306BFC16}|Modelo\\Modelo.csproj|solutionrelative:modelo\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97A81DB8-7CE9-4BC8-BE6B-CD9A554F6CC1}|Principal\\Principal.csproj|c:\\users\\sena\\documents\\tamarindo\\latiendamasveloz\\principal\\ventanaempledo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97A81DB8-7CE9-4BC8-BE6B-CD9A554F6CC1}|Principal\\Principal.csproj|solutionrelative:principal\\ventanaempledo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20127095-9062-40AB-AE9D-759FA1BD254B}|Logica\\Logica.csproj|c:\\users\\sarch\\downloads\\proyectoencapas\\logica\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20127095-9062-40AB-AE9D-759FA1BD254B}|Logica\\Logica.csproj|solutionrelative:logica\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97A81DB8-7CE9-4BC8-BE6B-CD9A554F6CC1}|Principal\\Principal.csproj|C:\\Users\\SENA\\Documents\\Tamarindo\\LatiendaMasVeloz\\principal\\ventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97A81DB8-7CE9-4BC8-BE6B-CD9A554F6CC1}|Principal\\Principal.csproj|solutionrelative:principal\\ventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A91CFC1B-EECA-45B1-975A-C74B306BFC16}|Modelo\\Modelo.csproj|c:\\users\\sarch\\downloads\\proyectoencapas\\modelo\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A91CFC1B-EECA-45B1-975A-C74B306BFC16}|Modelo\\Modelo.csproj|solutionrelative:modelo\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97A81DB8-7CE9-4BC8-BE6B-CD9A554F6CC1}|Principal\\Principal.csproj|C:\\Users\\SENA\\Documents\\Tamarindo\\LatiendaMasVeloz\\principal\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97A81DB8-7CE9-4BC8-BE6B-CD9A554F6CC1}|Principal\\Principal.csproj|solutionrelative:principal\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A91CFC1B-EECA-45B1-975A-C74B306BFC16}|Modelo\\Modelo.csproj|c:\\users\\sarch\\downloads\\proyectoencapas\\modelo\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A91CFC1B-EECA-45B1-975A-C74B306BFC16}|Modelo\\Modelo.csproj|solutionrelative:modelo\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97A81DB8-7CE9-4BC8-BE6B-CD9A554F6CC1}|Principal\\Principal.csproj|C:\\Users\\SENA\\Documents\\Tamarindo\\LatiendaMasVeloz\\principal\\registrarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97A81DB8-7CE9-4BC8-BE6B-CD9A554F6CC1}|Principal\\Principal.csproj|solutionrelative:principal\\registrarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20127095-9062-40AB-AE9D-759FA1BD254B}|Logica\\Logica.csproj|c:\\users\\sarch\\downloads\\proyectoencapas\\logica\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20127095-9062-40AB-AE9D-759FA1BD254B}|Logica\\Logica.csproj|solutionrelative:logica\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20127095-9062-40AB-AE9D-759FA1BD254B}|Logica\\Logica.csproj|c:\\users\\sarch\\downloads\\proyectoencapas\\logica\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20127095-9062-40AB-AE9D-759FA1BD254B}|Logica\\Logica.csproj|solutionrelative:logica\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20127095-9062-40AB-AE9D-759FA1BD254B}|Logica\\Logica.csproj|c:\\users\\sarch\\downloads\\proyectoencapas\\logica\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20127095-9062-40AB-AE9D-759FA1BD254B}|Logica\\Logica.csproj|solutionrelative:logica\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20127095-9062-40AB-AE9D-759FA1BD254B}|Logica\\Logica.csproj|c:\\users\\sarch\\downloads\\proyectoencapas\\logica\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20127095-9062-40AB-AE9D-759FA1BD254B}|Logica\\Logica.csproj|solutionrelative:logica\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20127095-9062-40AB-AE9D-759FA1BD254B}|Logica\\Logica.csproj|c:\\users\\sarch\\downloads\\proyectoencapas\\logica\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20127095-9062-40AB-AE9D-759FA1BD254B}|Logica\\Logica.csproj|solutionrelative:logica\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97A81DB8-7CE9-4BC8-BE6B-CD9A554F6CC1}|Principal\\Principal.csproj|C:\\Users\\SENA\\Documents\\Tamarindo\\LatiendaMasVeloz\\principal\\crearusuariofrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97A81DB8-7CE9-4BC8-BE6B-CD9A554F6CC1}|Principal\\Principal.csproj|solutionrelative:principal\\crearusuariofrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,133 +34,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\Users\\Sarch\\Downloads\\ProyectoEnCapas\\Logica\\ClienteController.cs",
-              "RelativeDocumentMoniker": "Logica\\ClienteController.cs",
-              "ToolTip": "C:\\Users\\Sarch\\Downloads\\ProyectoEnCapas\\Logica\\ClienteController.cs",
-              "RelativeToolTip": "Logica\\ClienteController.cs",
-              "ViewState": "AgIAAAgAAABAZ2ZmZmYkwB0AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T15:45:27.24Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Factura.cs",
-              "DocumentMoniker": "C:\\Users\\Sarch\\Downloads\\ProyectoEnCapas\\Modelo\\Entities\\Factura.cs",
-              "RelativeDocumentMoniker": "Modelo\\Entities\\Factura.cs",
-              "ToolTip": "C:\\Users\\Sarch\\Downloads\\ProyectoEnCapas\\Modelo\\Entities\\Factura.cs",
-              "RelativeToolTip": "Modelo\\Entities\\Factura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Title": "RegistrarEmpleado.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\Tamarindo\\LatiendaMasVeloz\\Principal\\RegistrarEmpleado.Designer.cs",
+              "RelativeDocumentMoniker": "Principal\\RegistrarEmpleado.Designer.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\Tamarindo\\LatiendaMasVeloz\\Principal\\RegistrarEmpleado.Designer.cs",
+              "RelativeToolTip": "Principal\\RegistrarEmpleado.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T11:24:59.955Z",
+              "WhenOpened": "2025-03-31T13:57:49.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BaseDatos.cs",
-              "DocumentMoniker": "C:\\Users\\Sarch\\Downloads\\ProyectoEnCapas\\Modelo\\BaseDatos.cs",
-              "RelativeDocumentMoniker": "Modelo\\BaseDatos.cs",
-              "ToolTip": "C:\\Users\\Sarch\\Downloads\\ProyectoEnCapas\\Modelo\\BaseDatos.cs",
-              "RelativeToolTip": "Modelo\\BaseDatos.cs",
-              "ViewState": "AgIAAA8AAABAmpmZmZkxwBgAAAAPAAAAAAAAAA==",
+              "Title": "Administrador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\Tamarindo\\LatiendaMasVeloz\\Principal\\Administrador.cs",
+              "RelativeDocumentMoniker": "Principal\\Administrador.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\Tamarindo\\LatiendaMasVeloz\\Principal\\Administrador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Principal\\Administrador.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T16:17:25.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\Sarch\\Downloads\\ProyectoEnCapas\\Logica\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "Logica\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\Sarch\\Downloads\\ProyectoEnCapas\\Logica\\UsuarioController.cs",
-              "RelativeToolTip": "Logica\\UsuarioController.cs",
-              "ViewState": "AgIAAA8AAAAAe2ZmZmYAwBAAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T16:16:56.771Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\Sarch\\Downloads\\ProyectoEnCapas\\Modelo\\Entities\\Cliente.cs",
-              "RelativeDocumentMoniker": "Modelo\\Entities\\Cliente.cs",
-              "ToolTip": "C:\\Users\\Sarch\\Downloads\\ProyectoEnCapas\\Modelo\\Entities\\Cliente.cs",
-              "RelativeToolTip": "Modelo\\Entities\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T16:25:21.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Empleado.cs",
-              "DocumentMoniker": "C:\\Users\\Sarch\\Downloads\\ProyectoEnCapas\\Modelo\\Entities\\Empleado.cs",
-              "RelativeDocumentMoniker": "Modelo\\Entities\\Empleado.cs",
-              "ToolTip": "C:\\Users\\Sarch\\Downloads\\ProyectoEnCapas\\Modelo\\Entities\\Empleado.cs",
-              "RelativeToolTip": "Modelo\\Entities\\Empleado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T15:51:23.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProveedorController.cs",
-              "DocumentMoniker": "C:\\Users\\Sarch\\Downloads\\ProyectoEnCapas\\Logica\\ProveedorController.cs",
-              "RelativeDocumentMoniker": "Logica\\ProveedorController.cs",
-              "ToolTip": "C:\\Users\\Sarch\\Downloads\\ProyectoEnCapas\\Logica\\ProveedorController.cs",
-              "RelativeToolTip": "Logica\\ProveedorController.cs",
-              "ViewState": "AgIAAAcAAAAA6P/////vvxEAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T16:12:02.68Z"
+              "WhenOpened": "2025-03-26T13:41:33.627Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "EmpleadoController.cs",
-              "DocumentMoniker": "C:\\Users\\Sarch\\Downloads\\ProyectoEnCapas\\Logica\\EmpleadoController.cs",
-              "RelativeDocumentMoniker": "Logica\\EmpleadoController.cs",
-              "ToolTip": "C:\\Users\\Sarch\\Downloads\\ProyectoEnCapas\\Logica\\EmpleadoController.cs",
-              "RelativeToolTip": "Logica\\EmpleadoController.cs",
-              "ViewState": "AgIAAAMAAAAqNTMzM5MwwBkAAAAqAAAAAAAAAA==",
+              "Title": "CrearUsuarioFrom.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\Tamarindo\\LatiendaMasVeloz\\Principal\\CrearUsuarioFrom.cs",
+              "RelativeDocumentMoniker": "Principal\\CrearUsuarioFrom.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\Tamarindo\\LatiendaMasVeloz\\Principal\\CrearUsuarioFrom.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Principal\\CrearUsuarioFrom.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T16:01:21.811Z"
+              "WhenOpened": "2025-03-26T13:35:24.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FacturaController.cs",
-              "DocumentMoniker": "C:\\Users\\Sarch\\Downloads\\ProyectoEnCapas\\Logica\\FacturaController.cs",
-              "RelativeDocumentMoniker": "Logica\\FacturaController.cs",
-              "ToolTip": "C:\\Users\\Sarch\\Downloads\\ProyectoEnCapas\\Logica\\FacturaController.cs",
-              "RelativeToolTip": "Logica\\FacturaController.cs",
-              "ViewState": "AgIAAA0AAABgAAAAAMAkwBEAAABkAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "RegistrarEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\Tamarindo\\LatiendaMasVeloz\\Principal\\RegistrarEmpleado.cs",
+              "RelativeDocumentMoniker": "Principal\\RegistrarEmpleado.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\Tamarindo\\LatiendaMasVeloz\\Principal\\RegistrarEmpleado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Principal\\RegistrarEmpleado.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T16:04:07.604Z"
+              "WhenOpened": "2025-03-26T13:31:18.159Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductoController.cs",
-              "DocumentMoniker": "C:\\Users\\Sarch\\Downloads\\ProyectoEnCapas\\Logica\\ProductoController.cs",
-              "RelativeDocumentMoniker": "Logica\\ProductoController.cs",
-              "ToolTip": "C:\\Users\\Sarch\\Downloads\\ProyectoEnCapas\\Logica\\ProductoController.cs",
-              "RelativeToolTip": "Logica\\ProductoController.cs",
-              "ViewState": "AgIAAA0AAAAQmpmZmfk3wBYAAAANAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "VentanaEmpledo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\Tamarindo\\LatiendaMasVeloz\\Principal\\VentanaEmpledo.cs",
+              "RelativeDocumentMoniker": "Principal\\VentanaEmpledo.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\Tamarindo\\LatiendaMasVeloz\\Principal\\VentanaEmpledo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Principal\\VentanaEmpledo.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T16:03:33.831Z"
+              "WhenOpened": "2025-03-26T13:24:11.197Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VentanaPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\Tamarindo\\LatiendaMasVeloz\\Principal\\VentanaPrincipal.cs",
+              "RelativeDocumentMoniker": "Principal\\VentanaPrincipal.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\Tamarindo\\LatiendaMasVeloz\\Principal\\VentanaPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Principal\\VentanaPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:13:45.023Z"
             }
           ]
         }
